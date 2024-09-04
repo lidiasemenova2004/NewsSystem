@@ -1,0 +1,13 @@
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\bin\Debug\The_News_System.exe.config
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\bin\Debug\The_News_System.exe
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\bin\Debug\The_News_System.pdb
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\obj\Debug\TheNewsSystem.csproj.AssemblyReference.cache
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\obj\Debug\TheNewsSystem.NewsAddingForm.resources
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\obj\Debug\The_News_System.Properties.Resources.resources
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\obj\Debug\TheNewsSystem.RegistrationForm.resources
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\obj\Debug\TheNewsSystem.SelectingTheOperatingForm.resources
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\obj\Debug\TheNewsSystem.ViewingForm.resources
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\obj\Debug\TheNewsSystem.csproj.GenerateResource.cache
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\obj\Debug\TheNewsSystem.csproj.CoreCompileInputs.cache
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\obj\Debug\The_News_System.exe
+C:\Users\Лидия\Desktop\Курсовая работа по ООП 2 курс 2023-2024 Семенова Лидия группа 20290\The_News_System\The_News_System\obj\Debug\The_News_System.pdb
